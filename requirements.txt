@@ -1,0 +1,4 @@
+selenium==3.3.1
+requests
+
+#also require selenium hub https://github.com/namgivu/selenium-docker-sandbox
